@@ -1,0 +1,6 @@
+anndata==0.8.0
+numpy==1.22.3
+pandas==1.4.1
+PhenoGraph==1.5.7
+scikit_learn==1.2.0
+scipy==1.8.0

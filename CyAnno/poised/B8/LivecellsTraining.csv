@@ -1,0 +1,3 @@
+fpath,sample_ID
+../POISED/ProcessedData/LiveLabelledCells/P107_PeaStim_label_expression.csv,P107_PeaStim
+../POISED/ProcessedData/LiveLabelledCells/P107_UnStim_label_expression.csv,P107_UnStim
